@@ -6,7 +6,6 @@
 	       <title>Hello world!</title>
 	       </head>
 	       <body>
-	       <h1>Time Hacker</h1>
 		Hello world!
 	       </body>
 </html>
